@@ -1,1 +1,1 @@
-# LLMopstradingBot
+# LLMOpstradingBot
